@@ -10,3 +10,5 @@ joblib
 great-expectations
 pytest
 gradio
+xgboost==3.0.3
+scipy==1.16.1
