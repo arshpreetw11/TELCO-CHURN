@@ -27,4 +27,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: arshpreetw11/telco-fastapi:latest
+          tags: arshpreet11/telco-fastapi:latest
