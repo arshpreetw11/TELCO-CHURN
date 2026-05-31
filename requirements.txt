@@ -9,3 +9,5 @@ python-dotenv
 joblib
 great-expectations
 pytest
+pip install gradio
+pip freeze > requirements.txt
