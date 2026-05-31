@@ -1,0 +1,10 @@
+artifact_location: file:///Users/arshpreetwalia/Desktop/Telco-Churn Project/mlruns/495093474901481521/models/m-cf07105db39b4ad78d51faad1e7aa571/artifacts
+creation_timestamp: 1780226088666
+experiment_id: '495093474901481521'
+last_updated_timestamp: 1780226108348
+model_id: m-cf07105db39b4ad78d51faad1e7aa571
+model_type: null
+name: model
+source_run_id: 2780474bc3c84a0ea516f998e6b674e7
+status: 2
+status_message: null

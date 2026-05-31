@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/arshpreetwalia/Desktop/Telco-Churn Project/mlruns/495093474901481521/2780474bc3c84a0ea516f998e6b674e7/artifacts
+end_time: 1780226108352
+entry_point_name: ''
+experiment_id: '495093474901481521'
+lifecycle_stage: active
+run_id: 2780474bc3c84a0ea516f998e6b674e7
+run_name: kindly-goat-906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780226088375
+status: 3
+tags: []
+user_id: arshpreetwalia

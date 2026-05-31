@@ -1,0 +1,22 @@
+artifact_path: file:///Users/arshpreetwalia/Desktop/Telco-Churn Project/mlruns/495093474901481521/models/m-cf07105db39b4ad78d51faad1e7aa571/artifacts
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.9.6
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: xgb
+    xgb_version: 2.1.4
+mlflow_version: 3.1.4
+model_id: m-cf07105db39b4ad78d51faad1e7aa571
+model_size_bytes: 572681
+model_uuid: m-cf07105db39b4ad78d51faad1e7aa571
+prompts: null
+run_id: 2780474bc3c84a0ea516f998e6b674e7
+utc_time_created: '2026-05-31 11:14:48.673904'
